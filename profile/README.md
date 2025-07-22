@@ -58,8 +58,8 @@ Webex is a cloud-based communication suite from Cisco that includes HD video mee
 
 ## 🖼 Preview
 
-![Webex Screenshot 1](https://cisco-api.ingeniuxondemand.com/DITA/content/en/us/td/i/400001-500000/484001-485000/484583.png)  
-![Webex Screenshot 2](https://cisco-api.ingeniuxondemand.com/DITA/content/en/us/td/i/400001-500000/451001-452000/451453.jpg)
+![Webex Screenshot 1](https://cisco-api.ingeniuxondemand.com/DITA/content/en/us/td/i/400001-500000/450001-460000/454001-455000/454415.jpg)  
+![Webex Screenshot 2](https://www.cisco.com/c/en_ca/products/conferencing/webex-meetings/index/jcr:content/Grid/subcategory_atl_5cf/layout-subcategory-atl/marquee_inpage_fab_c.img.jpg/1632893957379.jpg)
 
 ---
 
